@@ -1,0 +1,4 @@
+comparacao,ARI,NMI
+K-Means x Atividade real,0.4197,0.5601
+Comunidades x Atividade real,0.5418,0.6611
+K-Means x Comunidades,0.6061,0.7055

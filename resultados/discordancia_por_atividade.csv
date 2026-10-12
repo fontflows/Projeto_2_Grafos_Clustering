@@ -1,0 +1,5 @@
+categoria,Andando,Deitado,Descendo escada,Em pé,Sentado,Subindo escada
+Os dois acertam,0,1552,2,841,0,1211
+Os dois erram,137,108,321,0,626,170
+Só as comunidades erram,0,5,1083,1065,0,31
+Só o K-Means erra,1585,279,0,0,1151,132
